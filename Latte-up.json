@@ -1,0 +1,25 @@
+{
+  "version": 1.0,
+  "message": "
+         -ระบบอัพเดทอัตโนมัติ -	
+****----28-11-2023----****
+----TRUE-NoPro----
+สามารถใช้งานได้แล้วภายในแอพนี้
+         -หมายเหตุ-
+ ติดปัญหาเกี่ยวกับแอพ
+-แจ้งในกลุ่มไลน์ได้เลย
+-มีแอดมินค่อยดูแลท่านตลอดเวลา
+",
+  "data": [
+    {
+      "name": "Thailand TRUE-NoPro 01",
+      "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYyZnJlZS0wMS5udXdhLWFsbnV3YS53b3JrIiwiaWQiOiJkMjFkMzE0MC0xNzNmLTQzMzQtYjhhZC05MGM4MzhjMmU5OTIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiJGcmVlLVRSVUUtTm9Qcm8tMjctMTEtMjAyMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    }, {
+      "name": "Thailand DTAC-line 01",
+      "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjIzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjYy5uYXZlci5jb20iLCJpZCI6IjNlYjM2ZTFkLTU5MzYtNGUzNS1iMmMyLWVlNGM2NGMwYzE2MSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MDgxIiwicHMiOiJEVEFDLUxpbmUtMjctMTEtMjAyMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9"
+    }, {
+      "name": "Thailand AIS-AisPlay 01",
+      "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjIzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiMjZiYTcxODgtNzM2ZC00YTg1LWIyMTQtOTk3NDBkMTY5YTNhIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNTM5MzYiLCJwcyI6IkZyZWUtQUlTLeC5gOC4o+C4tOC5iOC4oSAyNy0xMS0yMDIzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0="
+    }
+  ]
+}
