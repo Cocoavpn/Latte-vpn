@@ -1,53 +1,58 @@
 {
-  "version": 1.3,
+  "version": 1.4,
   "message": "
-      -ระบบอัพเดทอัตโนมัติ -	
-****-- 30-11-2023 ---****
-------TRUE-NoPro--------
--สำหรับท่านใดที่ใช้แล้วช้า+อืด
--รบกวนท่านลองเปลี่ยนเซริฟนะ
-    -หมายเหตุ-
- รบกวนติดปัญหาเกี่ยวกับแอพ
--แจ้งแอดมินในกลุ่มไลน์ตรงปุ่ม ติดต่อ
--มีแอดมินค่อยดูแลท่านตลอดครับ
+   - กรุณาอัพเวอร์ชั่นใหม่-	
+****-- 5-12-2023 ---****
 ",
   "data": [
     {
-      "name": "Thailand-IS AIS Ais+Play 01",
+      "name": "Thailand-01 AIS โปรAisเพลย์",
       "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy5zcGVlZHRlc3QubmV0IiwiaWQiOiIxMTg5MDc1MC0zZTZlLTRhNzEtYTg0MS00N2I0YWFiNGRlMTEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiQUlTLWFkbWluLW51d2EwMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0="
     }, {
-      "name": "Thailand-MC AIS Ais+Play 02",
+      "name": "Thailand-02 AIS  โปรAisเพลย์",
       "content": "vmess://eyJhZGQiOiIxMTYuODkuMjUyLjE0MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6ImVmZDcxYzRkLTY2ODAtNGMzMy04MWE2LTRkMzUxZDc2NDMzYSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJBSVMtYWRtaW4tbnV3YTAzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ=="
     }, {
-      "name": "Thailand-IS AIS Ais+Play 03",
+      "name": "Thailand-03 AIS  โปรAisเพลย์",
       "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjIzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiYjFiNjg4YzUtM2U0OC00ZjNlLTkzYzEtYTdhZjg1OThmODgyIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IkZyZWUtQUlTLWFkbWluLW51d2EwMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0="
     }, {
-      "name": "Thailand-IS AIS Ais+Play 04",
+      "name": "Thailand-04 AIS  โปรAisเพลย์",
       "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjE1NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6ImE0Zjc5NWVmLTA2NDUtNDY5ZS04ZWZlLWViODgzYTc5NzE1YyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJBSVMtYWRtaW4tbnV3YTAzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==" 
     }, {
-      "name": "Thailand-IS DTAC Happy+Line 01",
+      "name": "Thailand-01 DTAC โปรแฮปปิ้ไลน์",
       "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNjLm5hdmVyLmNvbSIsImlkIjoiNzNlMGUwYzQtZWE4Zi00OTQ2LTliNGYtNGFhMDdiOGIwYjM0IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNTI5NzgiLCJwcyI6IkRUQUMtTGluZS1hZG1pbi1udXdhMDIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJodHRwIiwidiI6IjIifQ=="
     }, {
-      "name": "Thailand-MC DTAC Happy+Line 02",
+      "name": "Thailand-02 DTAC โปรแฮปปิ้ไลน์",
       "content": "vmess://eyJhZGQiOiIxMTYuODkuMjUyLjE0MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiY2MubmF2ZXIuY29tIiwiaWQiOiJiZmQzYTY1MS1kYTg1LTRkMWYtOGZhNi01ZTc4YmYwZDVkNzMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyOTUxNiIsInBzIjoiRFRBQy1MaW5lLWFkbWluLW51d2EwMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9"
     }, {
-      "name": "Thailand-IS DTAC Happy+Line 03",
+      "name": "Thailand-03 DTAC โปรแฮปปิ้ไลน์",
       "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjIzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjYy5uYXZlci5jb20iLCJpZCI6IjUzNjkyNWRhLTYyNTctNDRlMC1hYjBkLTM3OWM4NDE3N2FlNCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MDgxIiwicHMiOiJEVEFDLUxpbmUtYWRtaW4tbnV3YTAxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0="
     }, {
-      "name": "Thailand-IS DTAC Happy+Line 04",
+      "name": "Thailand-04 DTAC โปรแฮปปิ้ไลน์",
       "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjE1NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiY2MubmF2ZXIuY29tIiwiaWQiOiJmOTc0NDhlOS05YjBjLTQxZWQtODc2MC1kNzM0NTJhNTdlMzQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIzNzEwMSIsInBzIjoiRFRBQy1MaW5lLWFkbWluLW51d2EwMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9"
     }, {
-      "name": "Thailand-IS TRUE NOPro 01",
-      "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYyZnJlZS0wMS5udXdhLWFsbnV3YS53b3JrIiwiaWQiOiJmNjUwYzVmZi04NGFjLTQwNzYtYWY0MC04YWMzNmJiZDgyZDkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiJGcmVlLVRydWVOb1Byby0tYWRtaW4tbnV3YTAxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+      "name": "Thailand-01 TRUEโนโปร",
+      "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYyZnJlZS0wMS5udXdhLWFsbnV3YS53b3JrIiwiaWQiOiIxYjlhMjNlMi1kMDYxLTQ1MjktYmNkMC03ZWQyNjg0NTgzZTEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiJGcmVlLVRydWVOb1Byby0tbnV3YTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
     }, {
-      "name": "Thailand-MC TRUE NOPro 02",
-      "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYyZnJlZS0wNi5udXdhLWFsbnV3YS53b3JrIiwiaWQiOiIyN2EzNWE1My1lMzUyLTQ0ZDUtYjAxYy01YjNjZThlOWNlMzMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiJGcmVlLVRydWVOb1Byby1NYy1hZG1pbi1udXdhMDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+      "name": "Thailand-02 TRUEโนโปร",
+      "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYyZnJlZS0wMi5udXdhLWFsbnV3YS53b3JrIiwiaWQiOiJmNDYwYWQxZC05Zjk3LTRjMjMtYjMzOC05NDFkOGMxNjA5OTEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiJUUlVFLU5vcHJvLU51d2EtMDIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
     }, {
-      "name": "Thailand-IS TRUE NOPro 03",
-      "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYyZnJlZS0wMi5udXdhLWFsbnV3YS53b3JrIiwiaWQiOiI1MDE5ZmU4Ni0xM2UxLTRkMzItODg3NS1lODRlZTUyMmQ1ZTEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiJUUlVFLU5vcHJvLWFkbWluLW51d2EwMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+      "name": "Thailand-03 TRUEโนโปร ",
+      "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYyZnJlZS0wNS5udXdhLWFsbnV3YS53b3JrIiwiaWQiOiI0MzczNWNjZi04N2IyLTQzZWEtOWE0Zi00ODIzMmY5YmQ4MjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiJUUlVFLU5vcHJvLU51d2EzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
     }, {
-      "name": "Thailand-IS TRUE NOPro 04",
-      "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYyZnJlZS0wNS5udXdhLWFsbnV3YS53b3JrIiwiaWQiOiI2ZjFlN2VkZS1jZjZjLTRmYjMtOTEzYi00ZTk2NTBjYzgwNzkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiJUUlVFLU5vcHJvLWFkbWluLW51d2EwMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+      "name": "Thailand-04 TRUEโนโปร ",
+      "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYycmF5LWZyZWUubnV3YS1hbG51d2Eud29yayIsImlkIjoiYzQ0ZTk4ODgtMDY3NS00NmExLWIyYjctMzExMTIzMDM2YWVhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI4MCIsInBzIjoiRnJlZS1UUlVFX05vUHJvLU51d2E0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+    }, {
+      "name": "Thailand-01 TRUEโปรโซเชียล",
+      "content": "vless://7825902f-35c5-469a-9071-37e5b99ff582@v2free-01.nuwa-alnuwa.work:443?path=%2Fray&security=tls&encryption=none&type=ws&sni=fbcdn.net#True-01s-th1"
+    }, {
+      "name": "Thailand-02 TRUEโปรโซเชียล",
+      "content": "vless://c244b581-2c19-493c-9af1-231b6d0098a5@v2free-02.nuwa-alnuwa.work:443?path=%2Fray&security=tls&encryption=none&alpn=http/1.1,h2&type=ws&sni=fbcdn.net#True-02s-th2"
+    }, {
+      "name": "Thailand-03 TRUEโปรโซเชียล",
+      "content": "vless://094d77fd-36da-4937-95b5-f7fdbe9772c7@v2free-05.nuwa-alnuwa.work:443?path=%2Fray&security=tls&encryption=none&alpn=http/1.1,h2&type=ws&sni=fbcdn.net#True-03s-th3"
+    }, {
+      "name": "Thailand-04 TRUEโปรโซเชียล",
+      "content": "vmess://eyJhZGQiOiJ2MnJheS1mcmVlLm51d2EtYWxudXdhLndvcmsiLCJhaWQiOiIwIiwiYWxwbiI6Imh0dHAvMS4xLGgyIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1OWExNGZjZC1mYzEwLTRlZDMtYjRmNS1mY2QzZTNhMWI4OGUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjQ0MyIsInBzIjoiVHJ1ZS0wNHMtdGg0Iiwic2N5IjoiYXV0byIsInNuaSI6ImZiY2RuLm5ldCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9"
     }
   ]
 }
